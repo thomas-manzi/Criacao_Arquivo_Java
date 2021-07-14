@@ -1,0 +1,4 @@
+2021-07-13T19:53:17.486571]O usuário solicitou a inserção de produto em posição específica 0
+2021-07-13T19:53:17.486571]O usuário solicitou a inserção de produto em posição específica 1
+2021-07-13T19:53:17.486571]O usuário solicitou a inserção de produto em posição específica 2
+2021-07-13T19:53:17.486571]O usuário solicitou a inserção de produto em posição específica 1
